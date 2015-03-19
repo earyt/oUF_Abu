@@ -166,13 +166,13 @@ local L = ns.L
 	L.CENTER = "中间"
 	L.RIGHT = "右侧"
 
-	L.player = PLAYER
-	L.target = TARGET
+	L.player = "玩家"
+	L.target = "目标"
 	L.targettarget = "目标的目标"
-	L.pet = PET
+	L.pet = "宠物"
 	L.focus = "焦点"
 	L.focustarget = "焦点的目标"
-	L.party = PARTY
+	L.party = "小队"
 	L.boss = BOSS
 	L.arena = ARENA
 
